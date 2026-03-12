@@ -15,6 +15,13 @@ The system combines **sensor detection, microcontroller processing, and cloud-ba
 
 ---
 
+<h2 align="center">📸 Geo-Tagged Image Of Project</h2>
+
+<p align="center">
+  <img src="geo-tag-project-image.png" width="600">
+</p>
+
+
 # ⚙️ Technologies Used
 
 * ESP8266 NodeMCU
